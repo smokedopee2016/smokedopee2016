@@ -1,4 +1,7 @@
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/085d8d31-a5d8-4abc-aeff-c09b07d00914" />
+<!-- <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/085d8d31-a5d8-4abc-aeff-c09b07d00914" /> -->
+# Contact 
+E-Mail: luka@firemail.cc<br />
+XMPP: luka@lain.rocks
 
 ### Languages
 <p align="left">
