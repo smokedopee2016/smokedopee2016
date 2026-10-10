@@ -26,5 +26,5 @@
 
 ### Visitor Count
 <p align="left">
-  <img src="https://count.getloli.com/get/@lhwe?theme=gelbooru" alt="Visitor Counter">
+  <img src="https://count.getloli.com/get/@lhwe?theme=asoul" alt="Visitor Counter">
 </p>
